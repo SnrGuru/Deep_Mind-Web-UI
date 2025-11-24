@@ -239,7 +239,7 @@ background-color:rgba(211, 211, 211, 0.099);
     font-weight: 500;
     position: absolute;
     top: 45rem;
-    right: -5rem;
+    right: 0.5rem;
     border: var(--borderLight);
     padding: 1rem;
 }
@@ -250,9 +250,6 @@ background-color:rgba(211, 211, 211, 0.099);
     color:#fff ;
     text-transform: uppercase;
     font-weight: 500;
-    position: absolute;
-    top: 45rem;
-    right: -5rem;
     border: var(--borderLarge);
     padding: 1rem;
 }
